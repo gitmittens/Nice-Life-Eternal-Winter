@@ -1,0 +1,8 @@
+This project includes code from Winter Apocalypse++ by MephistoPheles666, licensed under Apache 2.0.
+
+Code from that project includes:
+- Everything in data\minecraft\worldgen
+
+The rest of the code from the original project was removed
+
+All other code was made by cruelmittens
