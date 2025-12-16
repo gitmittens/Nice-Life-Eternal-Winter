@@ -1,0 +1,1 @@
+scoreboard objectives add nl_timer dummy
