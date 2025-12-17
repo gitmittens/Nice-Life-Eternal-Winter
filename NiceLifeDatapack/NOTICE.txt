@@ -5,4 +5,4 @@ Code from that project includes:
 
 The rest of the code from the original project was removed
 
-All other code was made by cruelmittens
+All other code was made by cruelmittens and is original to this and only this project
