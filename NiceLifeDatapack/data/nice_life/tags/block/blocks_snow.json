@@ -2,10 +2,13 @@
     "values": [
         "minecraft:lily_pad",
         "minecraft:sugar_cane",
+        "minecraft:farmland",
+        "minecraft:torch",
         "#minecraft:replaceable",
         "#minecraft:stairs",
         "#minecraft:slabs",
         "#minecraft:flowers",
+        "#minecraft:crops",
         "#minecraft:snow_layer_cannot_survive_on"
     ]
 }
